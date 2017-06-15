@@ -8,5 +8,5 @@ Implement a scraper to gracefully scrape apartments.com once a day to find perfe
 - Using BeautifulSoup for scraping the website.
 - Using JSON, CSV to write output of scraper in a well organized csv file.
 - Using ConfigParser to get organized configuration of the project.
-- Using Google Maps API to get transit information, distance, walking details etc.
+- Using Google Maps API to get transit information, distance, walking details, rent info, etc.
 - Using SMTPLib to automate a daily email.
