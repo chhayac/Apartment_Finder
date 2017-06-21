@@ -2,7 +2,7 @@
 Quest to find an awesome apartment for rent.
 
 ## Goal of the project:
-Implement a scraper to gracefully scrape apartments.com once a day to find perfect apartment as per my needs.
+Implement a scraper which will gracefully scrape apartments.com once a day to find perfect apartment as per my needs.
 
 ### Details of the project:
 - Using BeautifulSoup for scraping the website.
